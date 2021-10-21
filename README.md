@@ -1,6 +1,6 @@
 # Kaggle Titanic Survival Predictions
 
-> Predicting passenger survival using features and engineered features, and understanding feature importance.
+> Predicting passenger survival using existing and engineered features, and understanding feature importance.
 
 ---
 
