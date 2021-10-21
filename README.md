@@ -24,8 +24,8 @@
 	- [titanic_train_test_wcg_v0.sql](https://gist.github.com/do-y-lee/b31f4872ba93eeb0dccc3f151cdc2232#file-titanic_train_test_wcg_v0-sql)
 	- [titanic_train_test_ml_features_v0.sql](https://gist.github.com/do-y-lee/e810a18ba3120438adec86489af73abb#file-titanic_train_test_ml_features_v0-sql)
 
-- Modeling & Visualization: Conducted in Python 
-	- [Titanic_Modeling_Analysis](https://github.com/do-y-lee/kaggle-titanic-analysis/blob/main/Titanic_Modeling_Analysis.ipynb)
+- Modeling & Visualization: Conducted in Python with Jupyter notebook 
+	- [Titanic_Modeling_Analysis.ipynb](https://github.com/do-y-lee/kaggle-titanic-analysis/blob/main/Titanic_Modeling_Analysis.ipynb)
 
 
 ## Project Deep-Dive Blogs on Medium:
