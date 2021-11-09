@@ -4,7 +4,34 @@
 
 ---
 
-## Analysis: 
+## Motivation
+
+In April 15, 1912, the RMS Titanic sank traveling across the Altantic Ocean from Southampton, England, to New York City. In this Kaggle exercise, I'll be using the Titanic passenger dataset to determine what features highly correlate to passenger survival. The binary classification model approach is very relevant in the real world. Using algorithms like logistic regression we can isolate important features to determine success or failure. Using Kaggle Titanic dataset, I'll be answering these questions and building a binary classification model to predict survival.
+
+* How many passenger classes did Titanic have and what was the median age in each class?
+* Were there more families or single passengers on the Titanic?
+* What is the one characteristic among the passengers that determined highest probability of survival?
+
+
+## Requirements
+
+* Python 3.7.4
+* pandas 1.2.3
+* numpy 1.19.5
+* matplotlib 3.2.0
+* seaborn 0.11.1
+* sklearn 0.24.2
+
+
+## Data Directory
+
+* `titanic_data/data-train.csv`: Transformed train dataset
+* `titanic_data/data-test.csv`: Transformed test dataset
+* `titanic_data/train.csv`: Original train dataset from Kaggle
+* `titanic_data/test.csv`: Original test dataset from Kaggle
+
+
+## Files 
 
 - Exploratory Analysis & Feature Engineering: Conducted in Postgres SQL
 	- [create_base_titanic_tables.sql](https://gist.github.com/do-y-lee/bc578f62e81ea34094e6ec5c9680d076#file-create_base_titanic_tables-sql)
@@ -28,13 +55,17 @@
 	- [Titanic_Modeling_Analysis.ipynb](https://github.com/do-y-lee/kaggle-titanic-analysis/blob/main/Titanic_Modeling_Analysis.ipynb)
 
 
-## Project Deep-Dive Blogs on Medium:
+## Project Technical Blogs on Medium:
 
 - [Kaggle Titanic Competition in SQL by Do Lee](https://towardsdatascience.com/kaggle-titanic-competition-in-sql-78ae3cd551ce)
 - [Kaggle Titanic Competition: Model Building & Tuning in Python by Do Lee](https://towardsdatascience.com/kaggle-titanic-competition-model-building-tuning-in-python-12f4f74436b5)
 
 
-## References
+## Results
+
+
+
+## Acknowledgements/References
 
 - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
