@@ -55,18 +55,18 @@ On April 15, 1912, the RMS Titanic sank traveling across the Altantic Ocean from
 	- [Titanic_Modeling_Analysis.ipynb](https://github.com/do-y-lee/kaggle-titanic-analysis/blob/main/Titanic_Modeling_Analysis.ipynb)
 
 
-## Project Technical Blogs on Medium:
+## Introductory & Non-Technical Blog on Medium
+
+* Please check out the following [blog post](https://dolee.medium.com/surviving-the-rms-titanic-a-brief-59e8a7b80d02) on [Medium](https://medium.com/).
+
+
+## Technical Blogs on Medium
 
 - [Kaggle Titanic Competition in SQL by Do Lee](https://towardsdatascience.com/kaggle-titanic-competition-in-sql-78ae3cd551ce)
 - [Kaggle Titanic Competition: Model Building & Tuning in Python by Do Lee](https://towardsdatascience.com/kaggle-titanic-competition-model-building-tuning-in-python-12f4f74436b5)
 
 
-## Results
-
-* Please check out the following [blog post](https://dolee.medium.com/surviving-the-rms-titanic-a-brief-59e8a7b80d02) on [Medium](https://medium.com/).
-
-
-## Acknowledgements/References
+## References
 
 - [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
