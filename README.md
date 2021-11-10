@@ -6,7 +6,7 @@
 
 ## Motivation
 
-In April 15, 1912, the RMS Titanic sank traveling across the Altantic Ocean from Southampton, England, to New York City. In this Kaggle exercise, I'll be using the Titanic passenger dataset to determine what features highly correlate to passenger survival. The binary classification model approach is very relevant in the real world. Using algorithms like logistic regression we can isolate important features to determine success or failure. Using Kaggle Titanic dataset, I'll be answering these questions and building a binary classification model to predict survival.
+On April 15, 1912, the RMS Titanic sank traveling across the Altantic Ocean from Southampton, England, to New York City. In this Kaggle exercise, I'll be using the Titanic passenger dataset to determine what features highly correlate to passenger survival. The binary classification model approach is very relevant in the real world. Using algorithms like logistic regression we can isolate important features to determine success or failure. Using Kaggle Titanic dataset, I'll be answering these questions and building a binary classification model to predict survival.
 
 * How many passenger classes did Titanic have and what was the median age in each class?
 * Were there more families or single passengers on the Titanic?
@@ -63,6 +63,7 @@ In April 15, 1912, the RMS Titanic sank traveling across the Altantic Ocean from
 
 ## Results
 
+* Please check out the following [blog post](https://dolee.medium.com/surviving-the-rms-titanic-a-brief-59e8a7b80d02) on [Medium](https://medium.com/).
 
 
 ## Acknowledgements/References
